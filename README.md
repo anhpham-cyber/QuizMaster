@@ -1,6 +1,7 @@
 # Quiz Test Program
 
-This is a simple Python quiz program I created to practice basic programming concepts such as variables, loops, conditionals, lists, and user input.  
+A simple Python quiz program that asks multiple-choice questions, checks answers, and calculates your score. Built by me while learning Python from BroCode on YouTube, as a fun way to practice basic programming and user input handling.
+
 The program asks a few personal quiz questions and gives feedback based on your answers.
 
 ---
